@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there. My name is Boris aka shch_b  👋
+## I'm a Data Analyst 
+
+- 🔭 I'm currently doing data analysis for 2 startups as a freelancer, but I'm actively looking for a job as a data analyst
+- :chart_with_upwards_trend: but I'm actively looking for a job as a **data analyst!** 
+- :notes: In techno I trust
+
+### Connect with me:
+[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][https://t.me/shch_b]
+[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[https://www.linkedin.com/in/boris-shchigolev/]
 
 <!--
 **shch-b/shch-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
