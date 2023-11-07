@@ -1,7 +1,7 @@
 ## Hi there. My name is Boris aka shch_b  👋
 ### I'm a Data Analyst 
 
-- :rocket: I'm currently doing data analysis for 2 startups as a freelancer, but I'm actively looking for a job as a data analyst
+- :rocket: I'm currently doing data analysis for 2 startups as a freelancer,
 - :chart_with_upwards_trend: but I'm actively looking for a job as a **data analyst!** 
 - :notes: In techno I trust
 
