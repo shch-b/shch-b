@@ -1,9 +1,24 @@
-## Hi there. My name is Boris aka shch_b  👋
-### I'm a Data Analyst 
+## Hello, world! :earth_africa: Hi there! :tada:
 
-- :rocket: I'm currently doing data analysis for 2 startups as a freelancer,
-- :chart_with_upwards_trend: but I'm actively looking for a job as a **data analyst!** 
-- :notes: In techno I trust
+## My name is Boris aka *shch_b*  :v:
+### I'm a Data Analyst and Researcher :bar_chart:
+
+- :rocket: Now I am involved in a projects to visualize data and create interactive dashboards for a logistics company, develop recommendations for creation long-term well-being applications in companies (AI-powered recommender startup), social listening applications analisys.
+- :computer: During the last 15 years, I've I been engaged in research activities and data analysis related to improving the efficiency of large companies and public authorities. I’ve extensive project experience related to data analysis and visualization, development of models, examination of documentation, creation of information systems to improve management efficiency and quality of services.
+- :chart_with_upwards_trend: **But** I'm actively looking for a job as a **Data Analyst, Product Analyst, BI-analyst, Researcher**
+
+
+### Tools and Skills :hammer::
+- **:snake: Python (pandas, numpy, matplotlib, seaborn, plotly, scikit-Learn, sqlalchemy, scipy.stats)**
+- **:notebook_with_decorative_cover: PostgreSQL, MySQL, Mongo**
+- **:art: Power BI, Tableau, Datalens, Looker (a little :hatching_chick:)**
+- **:page_with_curl: MS Excel (Power Query, Power Pivot, DAX)**
+- **:computer: Jupyter, Studio 3T, DBeaver, Miro, Studio 3T, SPSS, PowerPoint/Keynote, Jira, Asana, ELMA/DiagramsNET/MS Visio**
+- **:pencil: Mathematics - the Queen of Sciences**
+- **:notes: Techno - the King of Music**
+
+### Connect with me :mailbox::
+<p> <a href="https://www.linkedin.com/in/boris-shchigolev/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height=25></a> <a href="https://t.me/shch_b"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" height=25></a>
 
 
 <!--
