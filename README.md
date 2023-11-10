@@ -13,7 +13,7 @@
 - **:notebook_with_decorative_cover: PostgreSQL, MySQL, Mongo**
 - **:art: Power BI, Tableau, Datalens, Looker (a little :hatching_chick:)**
 - **:page_with_curl: MS Excel (Power Query, Power Pivot, DAX)**
-- **:computer: Jupyter, Studio 3T, DBeaver, Miro, Studio 3T, SPSS, PowerPoint/Keynote, Jira, Asana, ELMA/DiagramsNET/MS Visio**
+- **:computer: Jupyter, Studio 3T, DBeaver, Miro, Git, SPSS, PowerPoint/Keynote, Jira, Asana, ELMA/DiagramsNET/MS Visio**
 - **:pencil: Mathematics - the Queen of Sciences**
 - **:notes: Techno - the King of Music**
 
