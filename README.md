@@ -1,4 +1,4 @@
-## Hello, world! :earth_africa: Hi there! :tada:
+## Hello, world! :earth_africa: Hi there! 
 
 ## My name is Boris aka *shch_b*  :v:
 ### I'm a Data Analyst and Researcher :bar_chart:
