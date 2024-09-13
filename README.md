@@ -3,9 +3,10 @@
 ## My name is Boris aka *shch_b*  :v:
 ### I'm a Data Analyst and Researcher :bar_chart:
 
-- :rocket: Now I am involved in a projects to visualize data and create interactive dashboards for a logistics company, develop recommendations for creation long-term well-being applications in companies (AI-powered recommender startup), social listening applications analisys.
+- :globe_with_meridians: For the last year I have been doing product analysis in a large iGaming international company.
+- :rocket: Now I am involved in a projects to visualize data and create interactive dashboards for a logistics company, develop recommendations for creation long-term well-being applications in companies (AI-powered recommender startup), social listening applications analisys. 
 - :computer: During the last 15 years, I've I been engaged in research activities and data analysis related to improving the efficiency of large companies and public authorities. I’ve extensive project experience related to data analysis and visualization, development of models, examination of documentation, creation of information systems to improve management efficiency and quality of services.
-- :chart_with_upwards_trend: **But** I'm actively looking for a job as a **Data Analyst, Product Analyst, BI-analyst, Researcher**
+
 
 
 ### Tools and Skills :hammer::
